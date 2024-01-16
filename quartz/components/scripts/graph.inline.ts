@@ -243,7 +243,7 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
         .select("text")
         .transition()
         .duration(200)
-        .style("opacity", d3.select(parent).select("text").attr("opacityOld"))
+        .style("opacity", 0.5)
         .style("font-size", fontSize + "em")
     })
     // @ts-ignore
@@ -256,7 +256,7 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
     .attr("dy", (d) => -nodeRadius(d) + "px")
     .attr("text-anchor", "middle")
     .text((d) => d.text)
-    .style("opacity", (opacityScale - 1) / 3.75)
+    .style("opacity", 0.5)
     .style("pointer-events", "none")
     .style("font-size", fontSize + "em")
     .raise()

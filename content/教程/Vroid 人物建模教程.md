@@ -9,5 +9,5 @@ Vroid 是一个可以用来制作动漫风格角色的捏人软件。这里只�
 
 # 推荐参考
 
-<iframe src="https://player.bilibili.com/player.html?aid=853157085&bvid=BV19L4y157aS&cid=576206537&p=2&danmaku=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%" height="500" do-not-allow="autoplay"> </iframe>
+[【Vroid教程】虚拟偶像全流程教程](https://www.bilibili.com/video/BV19L4y157aS?p=2&vd_source=55a880a54c33bf14e471ac34587e25d7)
 
