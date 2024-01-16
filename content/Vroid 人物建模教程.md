@@ -3,7 +3,9 @@ Vroid 是一个可以用来制作动漫风格角色的捏人软件。这里只�
 
 [Vroid 下载链接](https://vroid.com/studio)
 
-软件本身比较直观，需要注意的只是一些导出选项
+软件本身比较直观，需要注意的只是一些导出选项，导出的时候选择Export as VRM，然后直接发给我 xial2@vcu.edu 就可以了
+
+![[Screenshot 2024-01-15 at 7.14.12 PM.png]]
 
 # 推荐参考
 
