@@ -7,12 +7,14 @@ title: 《Expect》 电影
 
 # 人物建模
 
-[[Vroid 人物建模教程]]
+[[Vroid 人物建模教程 1]]
 
-[[Ready Player Me 建模教程]]
+[[Ready Player Me 建模教程 1]]
+
+[[Genie 教程]]
 
 # 设备教程
-[[VR 使用教程（待更新）]]
+[[VR 使用教程（待更新） 1]]
 
 # 拍摄日程 
 
@@ -32,18 +34,6 @@ title: 《Expect》 电影
 
 [[Near Future 近未来世界]]
 
-# Todo List
+# Leilei的笔记
 
-## General
-
-- [ ] 制作VR使用教程
-
-## 赛博朋克
-
-- [ ] 泽宇的建模现在不可见，修改
-- [ ] 上传Vroid建模
-
-## Unity世界
-- [ ] 完成犄角世界的修改设置
-- [ ] 汤姆的人物建模
-- [ ] 
+[[会议记录 1月16日]]
