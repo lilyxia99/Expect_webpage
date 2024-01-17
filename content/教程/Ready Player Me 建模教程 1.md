@@ -1,3 +1,5 @@
+#教程 
+
 [Ready Player Me 官网](https://readyplayer.me)
 
 点击player log in, 输入我给你的密码
