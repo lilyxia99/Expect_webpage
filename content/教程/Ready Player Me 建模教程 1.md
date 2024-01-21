@@ -2,7 +2,10 @@
 
 [Ready Player Me 官网](https://readyplayer.me)
 
-点击player log in, 输入我给你的密码
+点击player log in, 输入账号、密码：
+
+账号：stairmasterinterviewee@gmail.com
+密码：Stairmaster2023
 
 ![[Screenshot 2024-01-15 at 8.56.39 PM.png]]
 
